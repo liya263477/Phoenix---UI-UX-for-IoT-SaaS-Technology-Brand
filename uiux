@@ -1,0 +1,4 @@
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/Y2Rgz8xIhPVyA5vx9lq1pb/dashboard_2.0?node-id=801-3287&embed-host=share" allowfullscreen></iframe>
+display: inline-flex;
+padding-right: 8px;
+align-items: center;
